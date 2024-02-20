@@ -1,0 +1,86 @@
+{
+  "files": [
+    {
+      "id": "23223",
+      "name": "public",
+      "isFolder": true,
+      "items": [
+        {
+          "id": "43923",
+          "name": "public nested 1",
+          "isFolder": true,
+          "items": [
+            {
+              "id": "41283",
+              "name": "index.html",
+              "isFolder": false,
+              "items": []
+            },
+            {
+              "id": "43822",
+              "name": "hello.html",
+              "isFolder": false,
+              "items": []
+            }
+          ]
+        },
+        {
+          "id": "43282",
+          "name": "public_nested_file",
+          "isFolder": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "32932",
+      "name": "src",
+      "isFolder": true,
+      "items": [
+        {
+          "id": "42823",
+          "name": "App.js",
+          "isFolder": false,
+          "items": []
+        },
+        {
+          "id": "42382",
+          "name": "Index.js",
+          "isFolder": false,
+          "items": []
+        },
+        {
+          "id": "82432",
+          "name": "styles.css",
+          "isFolder": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "31232",
+      "name": "example",
+      "isFolder": true,
+      "items": [
+        {
+          "id": "44223",
+          "name": "Example.js",
+          "isFolder": false,
+          "items": []
+        },
+        {
+          "id": "25632",
+          "name": "example.css",
+          "isFolder": false,
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "53801",
+      "name": "package.json",
+      "isFolder": false,
+      "items": []
+    }
+  ]
+}

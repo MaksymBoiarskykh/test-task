@@ -1,0 +1,21 @@
+.toolBar {
+  background: rgb(14, 14, 78);
+  color: #fff;
+  padding: 20px 15px;
+  width: 100%;
+
+  &Folder {
+    font-size: 17px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+
+  &Tools {
+    display: flex;
+    align-items: center;
+  }
+
+  button {
+    margin-right: 5px;
+  }
+}

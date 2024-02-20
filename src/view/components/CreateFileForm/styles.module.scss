@@ -1,0 +1,20 @@
+.typeBlock {
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.submitBtn {
+  width: 100%;
+  background: rgb(14, 14, 78);
+  color: #fff;
+  border-radius: 3px;
+  border: none;
+  padding: 5px 0;
+  cursor: pointer;
+
+  &:disabled {
+    background: rgb(81, 81, 176);
+  }
+
+}
